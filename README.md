@@ -12,3 +12,7 @@ Author : Aditya Andrew Leiss/Alex
 
 12/07/2019 10:10 AM UTC+8 
 Bali,Indonesia
+
+#Task03
+Ruby OOP  	
+Folder Name : RubyTask_03
