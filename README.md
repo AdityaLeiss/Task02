@@ -6,7 +6,7 @@ Both programs are using Indonesian language as the interface.
 
 To run the first task : run the index.html on your web browser, connect to the internet to run it smoothly.
 
-To run the second task : run the program in terminal, make sure to install ruby first on your devices
+To run the second task : run the program with ruby on terminal or command prompt, make sure to install ruby first on your devices
 
 Author : Aditya Andrew Leiss/Alex
 
